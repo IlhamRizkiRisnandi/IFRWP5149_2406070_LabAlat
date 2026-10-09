@@ -1,0 +1,28 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="ikmzkOGOJHJ5sybR2Qh-">
+    <mxGraphModel dx="1018" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GEPLFvxF0SnGCyhg6WYv-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="sistem laboratorium" vertex="1">
+          <mxGeometry height="580" width="520" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEPLFvxF0SnGCyhg6WYv-7" edge="1" parent="GEPLFvxF0SnGCyhg6WYv-1" source="GEPLFvxF0SnGCyhg6WYv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="GEPLFvxF0SnGCyhg6WYv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEPLFvxF0SnGCyhg6WYv-9" edge="1" parent="GEPLFvxF0SnGCyhg6WYv-1" source="GEPLFvxF0SnGCyhg6WYv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="GEPLFvxF0SnGCyhg6WYv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEPLFvxF0SnGCyhg6WYv-2" parent="GEPLFvxF0SnGCyhg6WYv-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GEPLFvxF0SnGCyhg6WYv-4" parent="GEPLFvxF0SnGCyhg6WYv-1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="lihat jadwal kuliah" vertex="1">
+          <mxGeometry height="40" width="140" x="230" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GEPLFvxF0SnGCyhg6WYv-5" parent="GEPLFvxF0SnGCyhg6WYv-1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="kelola jadwal kuliah" vertex="1">
+          <mxGeometry height="40" width="140" x="230" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
