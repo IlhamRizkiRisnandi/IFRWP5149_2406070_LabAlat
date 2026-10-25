@@ -1,0 +1,7 @@
+| No. | Temuan | Perbaikan yang diperlukan | Alasan |
+|---|-----------------------------------------------|-------------------------------------|------------------------------------------|
+| 1 | Arah panah dari Civitas Akademika ke Mahasiswa dan Dosen | Balik arah panah dari Mahasiswa/Dosen menunjuk ke Civitas Akademika | Panah generalization harus menunjuk dari elemen khusus (child) ke elemen umum (parent) |
+| 2 | Ujung panah generalization memakai panah garis biasa (V) | Ubah menjadi panah dengan ujung segitiga putih/kosong | Standar UML untuk generalization menggunakan garis utuh dengan ujung segitiga kosong |
+| 3 | Collaboration "Input Nilai Mata Kuliah" dan "Lihat KHS" digambar dengan elips utuh | Ubah garis pinggir elips menjadi putus-putus (dashed) | Simbol baku UML untuk collaboration adalah elips dengan garis putus-putus |
+| 4 | Garis penghubung dari Collaboration ke Use Case memakai garis lurus biasa | Ubah menjadi garis putus-putus dengan panah segitiga kosong | Hubungan dari collaboration ke use case adalah *realization*, disimbolkan dengan garis putus-putus dan panah segitiga kosong |
+| 5 | Aktor Admin Akademik ditarik garis ke Tambah, Ubah, dan Hapus Data Mahasiswa | Tarik garis dari Admin Akademik hanya ke use case "Kelola Data Mahasiswa" saja | Use case Tambah, Ubah, Hapus sudah mewarisi sifat asosiasi dari use case utamanya melalui generalization |
